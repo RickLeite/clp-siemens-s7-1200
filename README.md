@@ -24,7 +24,7 @@ Para testar o programa em um simulador virtual é utilizado o [S7-PLCSIM V15.1](
 
 Para utilizar esse exemplo no seu TIA Portal, basta baixar o projeto é copiar os diretórios **'Aprenda a Programar CLP do ZERO - André Terra - CLP Fácil'** e **'Aprenda a Programar CLP do ZERO - André Terra - CLP Fácil'** dos respectivos diretórios **'Automation'** e **'Simulation'** para os diretórios 'Automation' e 'Simulation' respectivamente no diretório 'Meus Documentos'. Isso vai fazer com que o TIA Portal reconheça e liste automaticamente os projetos.
 
-Caso não deseje copiar as pastas para os diretórios de projetos padrão do TIA, é possível abrir o projeto através dos arquivos `Aprenda a Programar CLP do ZERO - André Terra - CLP Fácil.ap15_1` (Programação) e `Aprenda a Programar CLP do ZERO - André Terra - CLP Fácil.sim15_1` (Simulação).
+Caso não deseje copiar as pastas para os diretórios de projetos padrão do TIA, é possível abrir o projeto através dos arquivos [`Aprenda a Programar CLP do ZERO - André Terra - CLP Fácil.ap15_1`](Automation/Aprenda%20a%20Programar%20CLP%20do%20ZERO%20-%20André%20Terra%20-%20CLP%20Fácil/Aprenda%20a%20Programar%20CLP%20do%20ZERO%20-%20André%20Terra%20-%20CLP%20Fácil.ap15_1) (Programação) e [`Aprenda a Programar CLP do ZERO - André Terra - CLP Fácil.sim15_1`](Simulation/Aprenda%20a%20Programar%20CLP%20do%20ZERO%20-%20André%20Terra%20-%20CLP%20Fácil/Aprenda%20a%20Programar%20CLP%20do%20ZERO%20-%20André%20Terra%20-%20CLP%20Fácil.sim15_1) (Simulação).
 
 ## SOLUÇÕES DE PROBLEMAS
 
